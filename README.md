@@ -128,7 +128,7 @@ I am a passionate **Software Quality Assurance** professional with extensive exp
 - Generated comprehensive test documentation including test cases and defect reports
 
 ##**Let's Connect!**
-* Connect with me on LinkedIn: https://www.linkedin.com/in/vikas-verma-5b562a165/
+* Connect with me on **LinkedIn**: https://www.linkedin.com/in/vikas-verma-5b562a165/
 * **Email**: vknitn@gmail.com
-- **WhatsApp:** 8173932281
+- **WhatsApp:** https://wa.me/8173932281
 * Eager to collaborate on interesting projects and share my testing knowledge!
