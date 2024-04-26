@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 **Remember:** Customize this template to reflect your unique skillset and experiences.
 
 -->
-## Crafting Quality Analyst
+## Software Quality Analyst
 
 ## About Me
 I am a passionate **Software Quality Assurance** professional with extensive experience in manual and automation testing across various domains, specializing in e-commerce platforms and Product Information Management (PIM) systems. My goal is to ensure the delivery of high-quality software by employing a combination of manual testing methodologies and automated testing frameworks. I combine a keen eye for detail with the power of automation to ensure software applications are exceptional. 
