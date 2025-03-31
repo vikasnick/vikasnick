@@ -110,6 +110,7 @@ I am a passionate **Software Quality Assurance** professional with extensive exp
 
 ### PIM Systems
 - **Akeneo**
+- **UnoPim**
 - **Pimcore**
 
 ## Projects
